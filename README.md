@@ -9,6 +9,7 @@ Explorer des outils alternatifs à Power BI pour enrichir mes capacités de data
 
 **Mon test :**
 https://datawrapper.dwcdn.net/j0zjg/1/
+<img width="1240" height="970" alt="Datawrapper_Evolution_ventes_par_mois" src="https://github.com/user-attachments/assets/1fbef0fe-cfcf-42ca-8651-f56dd10ce9c8" />
 
 **Points forts :**
 - Interface simple, sans code
@@ -24,6 +25,7 @@ https://datawrapper.dwcdn.net/j0zjg/1/
 
 **Mon test :**
 https://observablehq.com/d/6d3c98d68e986627
+<img width="1344" height="864" alt="ObservableHQ_ventes_par_regions" src="https://github.com/user-attachments/assets/33dea872-8e62-4979-91a6-2730ebb9e394" />
 
 **Points forts :**
 - Visualisations dynamiques et modernes
