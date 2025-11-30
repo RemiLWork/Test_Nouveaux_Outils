@@ -21,7 +21,7 @@ https://datawrapper.dwcdn.net/j0zjg/1/
 
 ---
 
-## Observable Plot
+## ObservableHQ
 
 **Mon test :**
 https://observablehq.com/d/6d3c98d68e986627
